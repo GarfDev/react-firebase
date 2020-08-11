@@ -37,6 +37,10 @@ This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go che
 $ npm i @garfdev/react-firebase
 ```
 
+```sh
+$ yarn add @garfdev/react-firebase
+```
+
 ## Quickstart
 
 In this state setting up is dead simple. First is create a `FirebaseConfig.ts` file:
